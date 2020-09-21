@@ -7,7 +7,7 @@ feature of this applications:
 
 **find friend**
 
-![photo_name](blob:https://web.whatsapp.com/479f6a7b-37f3-4a85-8cae-9ad507b83aac)
+<img src="https://github.com/Rahul7f/Hey/blob/master/screenshort/find.jpeg" alt="drawing" width="200"/>
 
 **send request,accept request**
 
