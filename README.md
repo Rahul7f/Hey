@@ -7,7 +7,7 @@ feature of this applications:
 
 **find friend**
 
-<img src="https://github.com/Rahul7f/Hey/blob/master/screenshort/find.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/Rahul7f/Hey/blob/master/screenshort/findok.jpeg" alt="drawing" width="200"/>
 
 **send request,accept request**
 
@@ -21,5 +21,7 @@ feature of this applications:
 
 <img src="https://github.com/Rahul7f/Hey/blob/master/screenshort/login.jpeg" alt="drawing" width="200"/>
 
+
 **Group**
+
 <img src="https://github.com/Rahul7f/Hey/blob/master/screenshort/group.jpeg" alt="drawing" width="200"/>
