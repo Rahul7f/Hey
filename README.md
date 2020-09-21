@@ -1,5 +1,5 @@
 # Hey (Chatting application)
-This is a simple chatting application  build in android 
+This is a simple android chatting application  
 
 database used:- firebase (realtime) 
 
