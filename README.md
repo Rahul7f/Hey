@@ -3,7 +3,7 @@ This is a simple android chatting application
 
 database used:- firebase (realtime) 
 
-feature of this applications:
+feature of this application:
 
 **find friend**
 
